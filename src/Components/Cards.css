@@ -1,0 +1,19 @@
+.flexbox .root{
+    border: 1px solid transparent;
+}
+
+.flexbox .root:hover{
+    border: 1px solid #d0d0d0;
+}
+.alliance{
+    font-family: Helvetica;
+    font-size: 14px;
+    font-weight: normal;
+    color:#192024
+}
+.numb{
+    font-family: Helvetica;
+    font-size:14px;
+    font-weight:normal;
+    color:#5a6872
+}
